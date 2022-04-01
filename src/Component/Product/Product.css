@@ -5,7 +5,7 @@
 }
 .product{
     position: relative;
-    border: 2px solid orangered;
+    /* border: 2px solid orangered; */
     height: 550px;
     text-align: center;
     
